@@ -1,0 +1,51 @@
+{
+  "dataset": "UCM",
+  "train_ratio_percent": 80,
+  "figure_label": "Fig. 13",
+  "source_matrix_npy": "materials/confusion_matrices_fig6_8/confusion_matrix_UCM_80.npy",
+  "source_matrix_npy_sha256": "5dc622cf89ebe69246392d5d2e2014ff367b049d0a38edf4beed9ec6319c54ae",
+  "confusion_matrix_png": "materials/confusion_matrices_fig6_8/confusion_matrix_UCM_80.png",
+  "confusion_matrix_csv": "materials/confusion_matrices_fig6_8/confusion_matrix_UCM_80.csv",
+  "normalized_confusion_matrix_csv": "materials/confusion_matrices_fig6_8/normalized_confusion_matrix_UCM_80.csv",
+  "per_class_accuracy_csv": "materials/confusion_matrices_fig6_8/per_class_accuracy_UCM_80.csv",
+  "top_confusions_csv": "materials/confusion_matrices_fig6_8/top_confusions_UCM_80.csv",
+  "oa": 0.9976190476190476,
+  "oa_percent": 99.76190476190476,
+  "mean_class_accuracy": 0.9976190476190476,
+  "mean_class_accuracy_percent": 99.76190476190476,
+  "total_samples": 420,
+  "num_classes": 21,
+  "class_names": [
+    "agricultural",
+    "airplane",
+    "baseballdiamond",
+    "beach",
+    "buildings",
+    "chaparral",
+    "denseresidential",
+    "forest",
+    "freeway",
+    "golfcourse",
+    "harbor",
+    "intersection",
+    "mediumresidential",
+    "mobilehomepark",
+    "overpass",
+    "parkinglot",
+    "river",
+    "runway",
+    "sparseresidential",
+    "storagetanks",
+    "tenniscourt"
+  ],
+  "top_confusions": [
+    {
+      "true_class": "buildings",
+      "pred_class": "overpass",
+      "count": 1,
+      "rate": 0.05,
+      "rate_percent": 5.0
+    }
+  ],
+  "generated_at_utc": "2026-07-23T05:46:32.922557+00:00"
+}

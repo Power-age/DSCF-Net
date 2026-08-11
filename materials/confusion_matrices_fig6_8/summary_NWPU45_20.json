@@ -1,0 +1,208 @@
+{
+  "dataset": "NWPU45",
+  "train_ratio_percent": 20,
+  "figure_label": "Fig. 12",
+  "source_matrix_npy": "materials/confusion_matrices_fig6_8/confusion_matrix_NWPU45_20.npy",
+  "source_matrix_npy_sha256": "1e55d62b07967be4d2511205385e419174ac265f39686dc836348ad21ee47542",
+  "confusion_matrix_png": "materials/confusion_matrices_fig6_8/confusion_matrix_NWPU45_20.png",
+  "confusion_matrix_csv": "materials/confusion_matrices_fig6_8/confusion_matrix_NWPU45_20.csv",
+  "normalized_confusion_matrix_csv": "materials/confusion_matrices_fig6_8/normalized_confusion_matrix_NWPU45_20.csv",
+  "per_class_accuracy_csv": "materials/confusion_matrices_fig6_8/per_class_accuracy_NWPU45_20.csv",
+  "top_confusions_csv": "materials/confusion_matrices_fig6_8/top_confusions_NWPU45_20.csv",
+  "oa": 0.9504365079365079,
+  "oa_percent": 95.0436507936508,
+  "mean_class_accuracy": 0.950436507936508,
+  "mean_class_accuracy_percent": 95.0436507936508,
+  "total_samples": 25200,
+  "num_classes": 45,
+  "class_names": [
+    "airplane",
+    "airport",
+    "baseball_diamond",
+    "basketball_court",
+    "beach",
+    "bridge",
+    "chaparral",
+    "church",
+    "circular_farmland",
+    "cloud",
+    "commercial_area",
+    "dense_residential",
+    "desert",
+    "forest",
+    "freeway",
+    "golf_course",
+    "ground_track_field",
+    "harbor",
+    "industrial_area",
+    "intersection",
+    "island",
+    "lake",
+    "meadow",
+    "medium_residential",
+    "mobile_home_park",
+    "mountain",
+    "overpass",
+    "palace",
+    "parking_lot",
+    "railway",
+    "railway_station",
+    "rectangular_farmland",
+    "river",
+    "roundabout",
+    "runway",
+    "sea_ice",
+    "ship",
+    "snowberg",
+    "sparse_residential",
+    "stadium",
+    "storage_tank",
+    "tennis_court",
+    "terrace",
+    "thermal_power_station",
+    "wetland"
+  ],
+  "top_confusions": [
+    {
+      "true_class": "palace",
+      "pred_class": "church",
+      "count": 70,
+      "rate": 0.125,
+      "rate_percent": 12.5
+    },
+    {
+      "true_class": "church",
+      "pred_class": "palace",
+      "count": 50,
+      "rate": 0.08928571428571429,
+      "rate_percent": 8.928571428571429
+    },
+    {
+      "true_class": "terrace",
+      "pred_class": "rectangular_farmland",
+      "count": 37,
+      "rate": 0.06607142857142857,
+      "rate_percent": 6.607142857142858
+    },
+    {
+      "true_class": "railway_station",
+      "pred_class": "railway",
+      "count": 30,
+      "rate": 0.05357142857142857,
+      "rate_percent": 5.357142857142857
+    },
+    {
+      "true_class": "medium_residential",
+      "pred_class": "dense_residential",
+      "count": 25,
+      "rate": 0.044642857142857144,
+      "rate_percent": 4.464285714285714
+    },
+    {
+      "true_class": "wetland",
+      "pred_class": "lake",
+      "count": 24,
+      "rate": 0.04285714285714286,
+      "rate_percent": 4.285714285714286
+    },
+    {
+      "true_class": "railway",
+      "pred_class": "railway_station",
+      "count": 22,
+      "rate": 0.039285714285714285,
+      "rate_percent": 3.9285714285714284
+    },
+    {
+      "true_class": "mountain",
+      "pred_class": "desert",
+      "count": 21,
+      "rate": 0.0375,
+      "rate_percent": 3.75
+    },
+    {
+      "true_class": "church",
+      "pred_class": "commercial_area",
+      "count": 19,
+      "rate": 0.033928571428571426,
+      "rate_percent": 3.392857142857143
+    },
+    {
+      "true_class": "rectangular_farmland",
+      "pred_class": "terrace",
+      "count": 19,
+      "rate": 0.033928571428571426,
+      "rate_percent": 3.392857142857143
+    },
+    {
+      "true_class": "lake",
+      "pred_class": "wetland",
+      "count": 18,
+      "rate": 0.03214285714285714,
+      "rate_percent": 3.214285714285714
+    },
+    {
+      "true_class": "dense_residential",
+      "pred_class": "medium_residential",
+      "count": 16,
+      "rate": 0.02857142857142857,
+      "rate_percent": 2.857142857142857
+    },
+    {
+      "true_class": "runway",
+      "pred_class": "airport",
+      "count": 16,
+      "rate": 0.02857142857142857,
+      "rate_percent": 2.857142857142857
+    },
+    {
+      "true_class": "commercial_area",
+      "pred_class": "palace",
+      "count": 14,
+      "rate": 0.025,
+      "rate_percent": 2.5
+    },
+    {
+      "true_class": "desert",
+      "pred_class": "mountain",
+      "count": 14,
+      "rate": 0.025,
+      "rate_percent": 2.5
+    },
+    {
+      "true_class": "airport",
+      "pred_class": "runway",
+      "count": 13,
+      "rate": 0.023214285714285715,
+      "rate_percent": 2.3214285714285716
+    },
+    {
+      "true_class": "forest",
+      "pred_class": "sparse_residential",
+      "count": 13,
+      "rate": 0.023214285714285715,
+      "rate_percent": 2.3214285714285716
+    },
+    {
+      "true_class": "thermal_power_station",
+      "pred_class": "industrial_area",
+      "count": 13,
+      "rate": 0.023214285714285715,
+      "rate_percent": 2.3214285714285716
+    },
+    {
+      "true_class": "bridge",
+      "pred_class": "overpass",
+      "count": 12,
+      "rate": 0.02142857142857143,
+      "rate_percent": 2.142857142857143
+    },
+    {
+      "true_class": "ground_track_field",
+      "pred_class": "stadium",
+      "count": 11,
+      "rate": 0.019642857142857142,
+      "rate_percent": 1.9642857142857142
+    }
+  ],
+  "generated_at_utc": "2026-07-23T05:46:30.379774+00:00"
+}

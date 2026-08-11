@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "DSCF-Net public final reproducibility package",
+    "upload_type": "software",
+    "description": "Paper-final reproducibility materials for DSCF-Net, including source code, dataset split records, environment files, result JSON/CSV files, confusion-matrix outputs, and scripts for reproducing the reported tables and figures. Original UCM, AID, and NWPU-RESISC45 images are not redistributed and should be obtained from their original providers. The optional checkpoint archive contains six main-experiment checkpoints for evaluating the final DSCF-Net and regenerating the confusion matrices reported in the paper.",
+    "creators": [
+      {
+        "name": "Xiong, Jia"
+      },
+      {
+        "name": "Xu, Chengjun"
+      }
+    ],
+    "access_right": "open",
+    "license": "MIT",
+    "keywords": [
+      "remote sensing scene classification",
+      "DSCF-Net",
+      "pretrained features",
+      "attention",
+      "feature fusion",
+      "reproducibility"
+    ],
+    "version": "1.0.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/Power-age/DSCF-Net",
+        "relation": "isSupplementTo",
+        "resource_type": "software"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+table,variant,oa_percent,params_M,flops_G,release_file,purpose
+table6_conv_type_aid50_fixed,Standard 3x3 Convolution,88.57 +/- 0.70,3.782173,1.492028128,materials/tables_5_8/table6_conv_type_aid50_fixed/Standard_3x3_Convolution.json,AID 50 fixed structural convolution type analysis
+table6_conv_type_aid50_fixed,Depthwise Separable Convolution,87.13 +/- 0.76,3.095413,1.23803824,materials/tables_5_8/table6_conv_type_aid50_fixed/Depthwise_Separable_Convolution.json,AID 50 fixed structural convolution type analysis
+table6_conv_type_aid50_fixed,PDConv 2-4-6,90.25 +/- 0.85,3.089029,1.246596832,materials/tables_5_8/table6_conv_type_aid50_fixed/PDConv_2-4-6.json,AID 50 fixed structural convolution type analysis

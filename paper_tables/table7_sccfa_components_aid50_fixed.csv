@@ -1,0 +1,5 @@
+variant,oa_percent,params_M,flops_G,release_file,purpose
+Without SCCFA,87.61 +/- 0.37,2.712901,1.077575392,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Without_SCCFA.json,AID 50 fixed structural SCCFA component analysis
+Spatial Adaptation Only,87.19 +/- 0.37,2.629957,1.04041648,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Spatial_Adaptation_Only.json,AID 50 fixed structural SCCFA component analysis
+Channel Adaptation Only,87.03 +/- 0.78,2.922565,1.171762912,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Channel_Adaptation_Only.json,AID 50 fixed structural SCCFA component analysis
+Full SCCFA,90.25 +/- 0.85,3.089029,1.246596832,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Full_SCCFA.json,AID 50 fixed structural SCCFA component analysis

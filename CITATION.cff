@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "DSCF-Net: A pretrained dual-scale cross-fusion network with attentional spatial-channel enhancement for remote sensing scene classification"
+message: "If you use this software or reproducibility package, please cite the associated paper and this repository."
+type: software
+authors:
+  - family-names: Xiong
+    given-names: Jia
+  - family-names: Xu
+    given-names: Chengjun
+abstract: "Paper-final source code, dataset split records, result materials, and reproducibility scripts for DSCF-Net."
+keywords:
+  - remote sensing scene classification
+  - pretrained features
+  - feature fusion
+  - attention
+  - reproducibility
+license: MIT
+version: "1.0.0"
+repository-code: "https://github.com/Power-age/DSCF-Net"
+date-released: "2026-08-11"

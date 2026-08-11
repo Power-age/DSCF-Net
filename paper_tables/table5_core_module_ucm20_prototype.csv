@@ -1,0 +1,5 @@
+variant,oa_percent,params_M,flops_G,release_file,purpose
+Baseline Traditional Convolution,78.43 +/- 1.12,1.423154,0.485940856,materials/tables_5_8/table5_core_module_ucm20_prototype/Baseline_Traditional_Convolution.json,UCM 20 channel-reduced prototype core module interaction
+PDC-2k Only,79.53 +/- 1.03,0.971174,0.354542968,materials/tables_5_8/table5_core_module_ucm20_prototype/PDC-2k_Only.json,UCM 20 channel-reduced prototype core module interaction
+ACS Fusion Only,78.40 +/- 1.09,1.690334,0.634514296,materials/tables_5_8/table5_core_module_ucm20_prototype/ACS_Fusion_Only.json,UCM 20 channel-reduced prototype core module interaction
+PDC-2k + ACS Fusion,79.58 +/- 0.66,1.238354,0.503116408,materials/tables_5_8/table5_core_module_ucm20_prototype/PDC-2k_+_ACS_Fusion.json,UCM 20 channel-reduced prototype core module interaction

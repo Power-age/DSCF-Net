@@ -1,0 +1,7 @@
+{
+  "split": "NWPU45_20",
+  "classes": 45,
+  "train_images": 6300,
+  "test_images": 25200,
+  "total_images": 31500
+}

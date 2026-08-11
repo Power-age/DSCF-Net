@@ -1,0 +1,4 @@
+variant,oa_percent,params_M,flops_G,release_file,purpose
+1-2-3,91.62 +/- 0.64,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/1-2-3.json,AID 50 fixed structural dilation-rate analysis
+2-4-6,89.93 +/- 0.79,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/2-4-6.json,AID 50 fixed structural dilation-rate analysis
+3-5-7,89.07 +/- 0.37,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/3-5-7.json,AID 50 fixed structural dilation-rate analysis

@@ -1,0 +1,15 @@
+table,variant,oa_percent,params_M,flops_G,release_file,purpose
+table5_core_module_ucm20_prototype,Baseline Traditional Convolution,78.43 +/- 1.12,1.423154,0.485940856,materials/tables_5_8/table5_core_module_ucm20_prototype/Baseline_Traditional_Convolution.json,UCM 20 channel-reduced prototype core module interaction
+table5_core_module_ucm20_prototype,PDC-2k Only,79.53 +/- 1.03,0.971174,0.354542968,materials/tables_5_8/table5_core_module_ucm20_prototype/PDC-2k_Only.json,UCM 20 channel-reduced prototype core module interaction
+table5_core_module_ucm20_prototype,ACS Fusion Only,78.40 +/- 1.09,1.690334,0.634514296,materials/tables_5_8/table5_core_module_ucm20_prototype/ACS_Fusion_Only.json,UCM 20 channel-reduced prototype core module interaction
+table5_core_module_ucm20_prototype,PDC-2k + ACS Fusion,79.58 +/- 0.66,1.238354,0.503116408,materials/tables_5_8/table5_core_module_ucm20_prototype/PDC-2k_+_ACS_Fusion.json,UCM 20 channel-reduced prototype core module interaction
+table6_conv_type_aid50_fixed,Standard 3x3 Convolution,88.57 +/- 0.70,3.782173,1.492028128,materials/tables_5_8/table6_conv_type_aid50_fixed/Standard_3x3_Convolution.json,AID 50 fixed structural convolution type analysis
+table6_conv_type_aid50_fixed,Depthwise Separable Convolution,87.13 +/- 0.76,3.095413,1.23803824,materials/tables_5_8/table6_conv_type_aid50_fixed/Depthwise_Separable_Convolution.json,AID 50 fixed structural convolution type analysis
+table6_conv_type_aid50_fixed,PDConv 2-4-6,90.25 +/- 0.85,3.089029,1.246596832,materials/tables_5_8/table6_conv_type_aid50_fixed/PDConv_2-4-6.json,AID 50 fixed structural convolution type analysis
+table7_sccfa_components_aid50_fixed,Without SCCFA,87.61 +/- 0.37,2.712901,1.077575392,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Without_SCCFA.json,AID 50 fixed structural SCCFA component analysis
+table7_sccfa_components_aid50_fixed,Spatial Adaptation Only,87.19 +/- 0.37,2.629957,1.04041648,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Spatial_Adaptation_Only.json,AID 50 fixed structural SCCFA component analysis
+table7_sccfa_components_aid50_fixed,Channel Adaptation Only,87.03 +/- 0.78,2.922565,1.171762912,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Channel_Adaptation_Only.json,AID 50 fixed structural SCCFA component analysis
+table7_sccfa_components_aid50_fixed,Full SCCFA,90.25 +/- 0.85,3.089029,1.246596832,materials/tables_5_8/table7_sccfa_components_aid50_fixed/Full_SCCFA.json,AID 50 fixed structural SCCFA component analysis
+table8_dilation_rates_aid50_fixed,1-2-3,91.62 +/- 0.64,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/1-2-3.json,AID 50 fixed structural dilation-rate analysis
+table8_dilation_rates_aid50_fixed,2-4-6,89.93 +/- 0.79,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/2-4-6.json,AID 50 fixed structural dilation-rate analysis
+table8_dilation_rates_aid50_fixed,3-5-7,89.07 +/- 0.37,3.042373,1.222930144,materials/tables_5_8/table8_dilation_rates_aid50_fixed/3-5-7.json,AID 50 fixed structural dilation-rate analysis

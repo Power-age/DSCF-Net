@@ -1,0 +1,7 @@
+setting,size_bytes,size_MiB,checkpoint_archive_path
+AID_0.2,60105774,57.32,checkpoints/main_training/AID_0.2/best.pth
+AID_0.5,60105774,57.32,checkpoints/main_training/AID_0.5/best.pth
+NWPU45_0.1,60150094,57.36,checkpoints/main_training/NWPU45_0.1/best.pth
+NWPU45_0.2,60150094,57.36,checkpoints/main_training/NWPU45_0.2/best.pth
+UCM_0.5,60075982,57.29,checkpoints/main_training/UCM_0.5/best.pth
+UCM_0.8,60075982,57.29,checkpoints/main_training/UCM_0.8/best.pth

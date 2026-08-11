@@ -1,0 +1,10 @@
+{
+  "release_type": "public_final_reproducibility_package",
+  "created_at": "2026-08-11T14:30:06",
+  "scope": "paper-final code, dataset split records, final result materials, and optional main-experiment checkpoints",
+  "main_archive_excludes_checkpoints": true,
+  "optional_checkpoint_archive": "DSCF-Net_SPIE_public_final_checkpoints.tar.gz",
+  "split_records": 89154,
+  "main_result_files": 6,
+  "table_5_8_records": 14
+}

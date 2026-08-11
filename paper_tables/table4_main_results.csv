@@ -1,0 +1,7 @@
+dataset,train_ratio,oa_percent,params_M,flops_G,release_file
+AID,0.2,95.39 +/- 0.12,7.380423,2.061661056,materials/main_results/results_AID_0.2.json
+AID,0.5,97.59 +/- 0.08,7.380423,2.061661056,materials/main_results/results_AID_0.5.json
+NWPU45,0.1,92.76 +/- 0.10,7.386228,2.061666816,materials/main_results/results_NWPU45_0.1.json
+NWPU45,0.2,94.91 +/- 0.09,7.386228,2.061666816,materials/main_results/results_NWPU45_0.2.json
+UCM,0.5,98.47 +/- 0.13,7.37694,2.0616576,materials/main_results/results_UCM_0.5.json
+UCM,0.8,99.45 +/- 0.20,7.37694,2.0616576,materials/main_results/results_UCM_0.8.json

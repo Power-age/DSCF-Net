@@ -1,0 +1,7 @@
+{
+  "split": "AID_50",
+  "classes": 30,
+  "train_images": 4963,
+  "test_images": 4964,
+  "total_images": 9927
+}

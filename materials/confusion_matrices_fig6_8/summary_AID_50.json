@@ -1,0 +1,193 @@
+{
+  "dataset": "AID",
+  "train_ratio_percent": 50,
+  "figure_label": "Fig. 11",
+  "source_matrix_npy": "materials/confusion_matrices_fig6_8/confusion_matrix_AID_50.npy",
+  "source_matrix_npy_sha256": "ca5051fe528dd0c84989a044f54dcb9d6f2a22dd3d19e46a124e4151d688e045",
+  "confusion_matrix_png": "materials/confusion_matrices_fig6_8/confusion_matrix_AID_50.png",
+  "confusion_matrix_csv": "materials/confusion_matrices_fig6_8/confusion_matrix_AID_50.csv",
+  "normalized_confusion_matrix_csv": "materials/confusion_matrices_fig6_8/normalized_confusion_matrix_AID_50.csv",
+  "per_class_accuracy_csv": "materials/confusion_matrices_fig6_8/per_class_accuracy_AID_50.csv",
+  "top_confusions_csv": "materials/confusion_matrices_fig6_8/top_confusions_AID_50.csv",
+  "oa": 0.9774375503626108,
+  "oa_percent": 97.74375503626108,
+  "mean_class_accuracy": 0.9760062606838334,
+  "mean_class_accuracy_percent": 97.60062606838335,
+  "total_samples": 4964,
+  "num_classes": 30,
+  "class_names": [
+    "Airport",
+    "BareLand",
+    "BaseballField",
+    "Beach",
+    "Bridge",
+    "Center",
+    "Church",
+    "Commercial",
+    "DenseResidential",
+    "Desert",
+    "Farmland",
+    "Forest",
+    "Industrial",
+    "Meadow",
+    "MediumResidential",
+    "Mountain",
+    "Park",
+    "Parking",
+    "Playground",
+    "Pond",
+    "Port",
+    "RailwayStation",
+    "Resort",
+    "River",
+    "School",
+    "SparseResidential",
+    "Square",
+    "Stadium",
+    "StorageTanks",
+    "Viaduct"
+  ],
+  "top_confusions": [
+    {
+      "true_class": "Resort",
+      "pred_class": "Park",
+      "count": 7,
+      "rate": 0.04827586206896552,
+      "rate_percent": 4.827586206896552
+    },
+    {
+      "true_class": "Center",
+      "pred_class": "Square",
+      "count": 5,
+      "rate": 0.038461538461538464,
+      "rate_percent": 3.8461538461538463
+    },
+    {
+      "true_class": "Resort",
+      "pred_class": "School",
+      "count": 4,
+      "rate": 0.027586206896551724,
+      "rate_percent": 2.7586206896551726
+    },
+    {
+      "true_class": "School",
+      "pred_class": "Commercial",
+      "count": 4,
+      "rate": 0.02666666666666667,
+      "rate_percent": 2.666666666666667
+    },
+    {
+      "true_class": "Square",
+      "pred_class": "Center",
+      "count": 4,
+      "rate": 0.024242424242424242,
+      "rate_percent": 2.4242424242424243
+    },
+    {
+      "true_class": "Park",
+      "pred_class": "Resort",
+      "count": 4,
+      "rate": 0.022857142857142857,
+      "rate_percent": 2.2857142857142856
+    },
+    {
+      "true_class": "Resort",
+      "pred_class": "Pond",
+      "count": 3,
+      "rate": 0.020689655172413793,
+      "rate_percent": 2.0689655172413794
+    },
+    {
+      "true_class": "BareLand",
+      "pred_class": "Desert",
+      "count": 3,
+      "rate": 0.01935483870967742,
+      "rate_percent": 1.935483870967742
+    },
+    {
+      "true_class": "Park",
+      "pred_class": "Square",
+      "count": 3,
+      "rate": 0.017142857142857144,
+      "rate_percent": 1.7142857142857144
+    },
+    {
+      "true_class": "Church",
+      "pred_class": "Center",
+      "count": 2,
+      "rate": 0.016666666666666666,
+      "rate_percent": 1.6666666666666667
+    },
+    {
+      "true_class": "Church",
+      "pred_class": "Commercial",
+      "count": 2,
+      "rate": 0.016666666666666666,
+      "rate_percent": 1.6666666666666667
+    },
+    {
+      "true_class": "Center",
+      "pred_class": "Church",
+      "count": 2,
+      "rate": 0.015384615384615385,
+      "rate_percent": 1.5384615384615385
+    },
+    {
+      "true_class": "RailwayStation",
+      "pred_class": "Center",
+      "count": 2,
+      "rate": 0.015384615384615385,
+      "rate_percent": 1.5384615384615385
+    },
+    {
+      "true_class": "Meadow",
+      "pred_class": "Farmland",
+      "count": 2,
+      "rate": 0.014285714285714285,
+      "rate_percent": 1.4285714285714286
+    },
+    {
+      "true_class": "Resort",
+      "pred_class": "Church",
+      "count": 2,
+      "rate": 0.013793103448275862,
+      "rate_percent": 1.3793103448275863
+    },
+    {
+      "true_class": "School",
+      "pred_class": "Square",
+      "count": 2,
+      "rate": 0.013333333333333334,
+      "rate_percent": 1.3333333333333335
+    },
+    {
+      "true_class": "Square",
+      "pred_class": "Church",
+      "count": 2,
+      "rate": 0.012121212121212121,
+      "rate_percent": 1.2121212121212122
+    },
+    {
+      "true_class": "Square",
+      "pred_class": "Commercial",
+      "count": 2,
+      "rate": 0.012121212121212121,
+      "rate_percent": 1.2121212121212122
+    },
+    {
+      "true_class": "Square",
+      "pred_class": "Park",
+      "count": 2,
+      "rate": 0.012121212121212121,
+      "rate_percent": 1.2121212121212122
+    },
+    {
+      "true_class": "Square",
+      "pred_class": "School",
+      "count": 2,
+      "rate": 0.012121212121212121,
+      "rate_percent": 1.2121212121212122
+    }
+  ],
+  "generated_at_utc": "2026-07-23T05:46:25.040294+00:00"
+}

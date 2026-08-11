@@ -1,0 +1,7 @@
+{
+  "split": "UCM_20",
+  "classes": 21,
+  "train_images": 420,
+  "test_images": 1680,
+  "total_images": 2100
+}

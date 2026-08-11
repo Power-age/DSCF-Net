@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+results/**/checkpoints/
+*.pth
+*.pt
+logs/
+*.log
+data/raw/
+data/Dataset/

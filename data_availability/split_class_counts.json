@@ -1,0 +1,1706 @@
+[
+  {
+    "split": "AID_20",
+    "label": "0",
+    "class_name": "Airport",
+    "train_images": 72,
+    "test_images": 288,
+    "total_images": 360
+  },
+  {
+    "split": "AID_20",
+    "label": "1",
+    "class_name": "BareLand",
+    "train_images": 62,
+    "test_images": 248,
+    "total_images": 310
+  },
+  {
+    "split": "AID_20",
+    "label": "2",
+    "class_name": "BaseballField",
+    "train_images": 44,
+    "test_images": 176,
+    "total_images": 220
+  },
+  {
+    "split": "AID_20",
+    "label": "3",
+    "class_name": "Beach",
+    "train_images": 80,
+    "test_images": 320,
+    "total_images": 400
+  },
+  {
+    "split": "AID_20",
+    "label": "4",
+    "class_name": "Bridge",
+    "train_images": 72,
+    "test_images": 288,
+    "total_images": 360
+  },
+  {
+    "split": "AID_20",
+    "label": "5",
+    "class_name": "Center",
+    "train_images": 52,
+    "test_images": 208,
+    "total_images": 260
+  },
+  {
+    "split": "AID_20",
+    "label": "6",
+    "class_name": "Church",
+    "train_images": 48,
+    "test_images": 192,
+    "total_images": 240
+  },
+  {
+    "split": "AID_20",
+    "label": "7",
+    "class_name": "Commercial",
+    "train_images": 70,
+    "test_images": 280,
+    "total_images": 350
+  },
+  {
+    "split": "AID_20",
+    "label": "8",
+    "class_name": "DenseResidential",
+    "train_images": 82,
+    "test_images": 328,
+    "total_images": 410
+  },
+  {
+    "split": "AID_20",
+    "label": "9",
+    "class_name": "Desert",
+    "train_images": 60,
+    "test_images": 240,
+    "total_images": 300
+  },
+  {
+    "split": "AID_20",
+    "label": "10",
+    "class_name": "Farmland",
+    "train_images": 74,
+    "test_images": 296,
+    "total_images": 370
+  },
+  {
+    "split": "AID_20",
+    "label": "11",
+    "class_name": "Forest",
+    "train_images": 50,
+    "test_images": 200,
+    "total_images": 250
+  },
+  {
+    "split": "AID_20",
+    "label": "12",
+    "class_name": "Industrial",
+    "train_images": 78,
+    "test_images": 312,
+    "total_images": 390
+  },
+  {
+    "split": "AID_20",
+    "label": "13",
+    "class_name": "Meadow",
+    "train_images": 56,
+    "test_images": 224,
+    "total_images": 280
+  },
+  {
+    "split": "AID_20",
+    "label": "14",
+    "class_name": "MediumResidential",
+    "train_images": 58,
+    "test_images": 232,
+    "total_images": 290
+  },
+  {
+    "split": "AID_20",
+    "label": "15",
+    "class_name": "Mountain",
+    "train_images": 68,
+    "test_images": 272,
+    "total_images": 340
+  },
+  {
+    "split": "AID_20",
+    "label": "16",
+    "class_name": "Park",
+    "train_images": 70,
+    "test_images": 280,
+    "total_images": 350
+  },
+  {
+    "split": "AID_20",
+    "label": "17",
+    "class_name": "Parking",
+    "train_images": 78,
+    "test_images": 312,
+    "total_images": 390
+  },
+  {
+    "split": "AID_20",
+    "label": "18",
+    "class_name": "Playground",
+    "train_images": 74,
+    "test_images": 296,
+    "total_images": 370
+  },
+  {
+    "split": "AID_20",
+    "label": "19",
+    "class_name": "Pond",
+    "train_images": 84,
+    "test_images": 336,
+    "total_images": 420
+  },
+  {
+    "split": "AID_20",
+    "label": "20",
+    "class_name": "Port",
+    "train_images": 76,
+    "test_images": 304,
+    "total_images": 380
+  },
+  {
+    "split": "AID_20",
+    "label": "21",
+    "class_name": "RailwayStation",
+    "train_images": 52,
+    "test_images": 208,
+    "total_images": 260
+  },
+  {
+    "split": "AID_20",
+    "label": "22",
+    "class_name": "Resort",
+    "train_images": 58,
+    "test_images": 232,
+    "total_images": 290
+  },
+  {
+    "split": "AID_20",
+    "label": "23",
+    "class_name": "River",
+    "train_images": 67,
+    "test_images": 270,
+    "total_images": 337
+  },
+  {
+    "split": "AID_20",
+    "label": "24",
+    "class_name": "School",
+    "train_images": 60,
+    "test_images": 240,
+    "total_images": 300
+  },
+  {
+    "split": "AID_20",
+    "label": "25",
+    "class_name": "SparseResidential",
+    "train_images": 60,
+    "test_images": 240,
+    "total_images": 300
+  },
+  {
+    "split": "AID_20",
+    "label": "26",
+    "class_name": "Square",
+    "train_images": 66,
+    "test_images": 264,
+    "total_images": 330
+  },
+  {
+    "split": "AID_20",
+    "label": "27",
+    "class_name": "Stadium",
+    "train_images": 58,
+    "test_images": 232,
+    "total_images": 290
+  },
+  {
+    "split": "AID_20",
+    "label": "28",
+    "class_name": "StorageTanks",
+    "train_images": 72,
+    "test_images": 288,
+    "total_images": 360
+  },
+  {
+    "split": "AID_20",
+    "label": "29",
+    "class_name": "Viaduct",
+    "train_images": 84,
+    "test_images": 336,
+    "total_images": 420
+  },
+  {
+    "split": "AID_50",
+    "label": "0",
+    "class_name": "Airport",
+    "train_images": 180,
+    "test_images": 180,
+    "total_images": 360
+  },
+  {
+    "split": "AID_50",
+    "label": "1",
+    "class_name": "BareLand",
+    "train_images": 155,
+    "test_images": 155,
+    "total_images": 310
+  },
+  {
+    "split": "AID_50",
+    "label": "2",
+    "class_name": "BaseballField",
+    "train_images": 110,
+    "test_images": 110,
+    "total_images": 220
+  },
+  {
+    "split": "AID_50",
+    "label": "3",
+    "class_name": "Beach",
+    "train_images": 200,
+    "test_images": 200,
+    "total_images": 400
+  },
+  {
+    "split": "AID_50",
+    "label": "4",
+    "class_name": "Bridge",
+    "train_images": 180,
+    "test_images": 180,
+    "total_images": 360
+  },
+  {
+    "split": "AID_50",
+    "label": "5",
+    "class_name": "Center",
+    "train_images": 130,
+    "test_images": 130,
+    "total_images": 260
+  },
+  {
+    "split": "AID_50",
+    "label": "6",
+    "class_name": "Church",
+    "train_images": 120,
+    "test_images": 120,
+    "total_images": 240
+  },
+  {
+    "split": "AID_50",
+    "label": "7",
+    "class_name": "Commercial",
+    "train_images": 175,
+    "test_images": 175,
+    "total_images": 350
+  },
+  {
+    "split": "AID_50",
+    "label": "8",
+    "class_name": "DenseResidential",
+    "train_images": 205,
+    "test_images": 205,
+    "total_images": 410
+  },
+  {
+    "split": "AID_50",
+    "label": "9",
+    "class_name": "Desert",
+    "train_images": 150,
+    "test_images": 150,
+    "total_images": 300
+  },
+  {
+    "split": "AID_50",
+    "label": "10",
+    "class_name": "Farmland",
+    "train_images": 185,
+    "test_images": 185,
+    "total_images": 370
+  },
+  {
+    "split": "AID_50",
+    "label": "11",
+    "class_name": "Forest",
+    "train_images": 125,
+    "test_images": 125,
+    "total_images": 250
+  },
+  {
+    "split": "AID_50",
+    "label": "12",
+    "class_name": "Industrial",
+    "train_images": 195,
+    "test_images": 195,
+    "total_images": 390
+  },
+  {
+    "split": "AID_50",
+    "label": "13",
+    "class_name": "Meadow",
+    "train_images": 140,
+    "test_images": 140,
+    "total_images": 280
+  },
+  {
+    "split": "AID_50",
+    "label": "14",
+    "class_name": "MediumResidential",
+    "train_images": 145,
+    "test_images": 145,
+    "total_images": 290
+  },
+  {
+    "split": "AID_50",
+    "label": "15",
+    "class_name": "Mountain",
+    "train_images": 170,
+    "test_images": 170,
+    "total_images": 340
+  },
+  {
+    "split": "AID_50",
+    "label": "16",
+    "class_name": "Park",
+    "train_images": 175,
+    "test_images": 175,
+    "total_images": 350
+  },
+  {
+    "split": "AID_50",
+    "label": "17",
+    "class_name": "Parking",
+    "train_images": 195,
+    "test_images": 195,
+    "total_images": 390
+  },
+  {
+    "split": "AID_50",
+    "label": "18",
+    "class_name": "Playground",
+    "train_images": 185,
+    "test_images": 185,
+    "total_images": 370
+  },
+  {
+    "split": "AID_50",
+    "label": "19",
+    "class_name": "Pond",
+    "train_images": 210,
+    "test_images": 210,
+    "total_images": 420
+  },
+  {
+    "split": "AID_50",
+    "label": "20",
+    "class_name": "Port",
+    "train_images": 190,
+    "test_images": 190,
+    "total_images": 380
+  },
+  {
+    "split": "AID_50",
+    "label": "21",
+    "class_name": "RailwayStation",
+    "train_images": 130,
+    "test_images": 130,
+    "total_images": 260
+  },
+  {
+    "split": "AID_50",
+    "label": "22",
+    "class_name": "Resort",
+    "train_images": 145,
+    "test_images": 145,
+    "total_images": 290
+  },
+  {
+    "split": "AID_50",
+    "label": "23",
+    "class_name": "River",
+    "train_images": 168,
+    "test_images": 169,
+    "total_images": 337
+  },
+  {
+    "split": "AID_50",
+    "label": "24",
+    "class_name": "School",
+    "train_images": 150,
+    "test_images": 150,
+    "total_images": 300
+  },
+  {
+    "split": "AID_50",
+    "label": "25",
+    "class_name": "SparseResidential",
+    "train_images": 150,
+    "test_images": 150,
+    "total_images": 300
+  },
+  {
+    "split": "AID_50",
+    "label": "26",
+    "class_name": "Square",
+    "train_images": 165,
+    "test_images": 165,
+    "total_images": 330
+  },
+  {
+    "split": "AID_50",
+    "label": "27",
+    "class_name": "Stadium",
+    "train_images": 145,
+    "test_images": 145,
+    "total_images": 290
+  },
+  {
+    "split": "AID_50",
+    "label": "28",
+    "class_name": "StorageTanks",
+    "train_images": 180,
+    "test_images": 180,
+    "total_images": 360
+  },
+  {
+    "split": "AID_50",
+    "label": "29",
+    "class_name": "Viaduct",
+    "train_images": 210,
+    "test_images": 210,
+    "total_images": 420
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "0",
+    "class_name": "airplane",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "1",
+    "class_name": "airport",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "2",
+    "class_name": "baseball_diamond",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "3",
+    "class_name": "basketball_court",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "4",
+    "class_name": "beach",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "5",
+    "class_name": "bridge",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "6",
+    "class_name": "chaparral",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "7",
+    "class_name": "church",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "8",
+    "class_name": "circular_farmland",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "9",
+    "class_name": "cloud",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "10",
+    "class_name": "commercial_area",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "11",
+    "class_name": "dense_residential",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "12",
+    "class_name": "desert",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "13",
+    "class_name": "forest",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "14",
+    "class_name": "freeway",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "15",
+    "class_name": "golf_course",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "16",
+    "class_name": "ground_track_field",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "17",
+    "class_name": "harbor",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "18",
+    "class_name": "industrial_area",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "19",
+    "class_name": "intersection",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "20",
+    "class_name": "island",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "21",
+    "class_name": "lake",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "22",
+    "class_name": "meadow",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "23",
+    "class_name": "medium_residential",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "24",
+    "class_name": "mobile_home_park",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "25",
+    "class_name": "mountain",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "26",
+    "class_name": "overpass",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "27",
+    "class_name": "palace",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "28",
+    "class_name": "parking_lot",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "29",
+    "class_name": "railway",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "30",
+    "class_name": "railway_station",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "31",
+    "class_name": "rectangular_farmland",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "32",
+    "class_name": "river",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "33",
+    "class_name": "roundabout",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "34",
+    "class_name": "runway",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "35",
+    "class_name": "sea_ice",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "36",
+    "class_name": "ship",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "37",
+    "class_name": "snowberg",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "38",
+    "class_name": "sparse_residential",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "39",
+    "class_name": "stadium",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "40",
+    "class_name": "storage_tank",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "41",
+    "class_name": "tennis_court",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "42",
+    "class_name": "terrace",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "43",
+    "class_name": "thermal_power_station",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_10",
+    "label": "44",
+    "class_name": "wetland",
+    "train_images": 70,
+    "test_images": 630,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "0",
+    "class_name": "airplane",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "1",
+    "class_name": "airport",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "2",
+    "class_name": "baseball_diamond",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "3",
+    "class_name": "basketball_court",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "4",
+    "class_name": "beach",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "5",
+    "class_name": "bridge",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "6",
+    "class_name": "chaparral",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "7",
+    "class_name": "church",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "8",
+    "class_name": "circular_farmland",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "9",
+    "class_name": "cloud",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "10",
+    "class_name": "commercial_area",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "11",
+    "class_name": "dense_residential",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "12",
+    "class_name": "desert",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "13",
+    "class_name": "forest",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "14",
+    "class_name": "freeway",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "15",
+    "class_name": "golf_course",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "16",
+    "class_name": "ground_track_field",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "17",
+    "class_name": "harbor",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "18",
+    "class_name": "industrial_area",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "19",
+    "class_name": "intersection",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "20",
+    "class_name": "island",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "21",
+    "class_name": "lake",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "22",
+    "class_name": "meadow",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "23",
+    "class_name": "medium_residential",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "24",
+    "class_name": "mobile_home_park",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "25",
+    "class_name": "mountain",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "26",
+    "class_name": "overpass",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "27",
+    "class_name": "palace",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "28",
+    "class_name": "parking_lot",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "29",
+    "class_name": "railway",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "30",
+    "class_name": "railway_station",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "31",
+    "class_name": "rectangular_farmland",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "32",
+    "class_name": "river",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "33",
+    "class_name": "roundabout",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "34",
+    "class_name": "runway",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "35",
+    "class_name": "sea_ice",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "36",
+    "class_name": "ship",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "37",
+    "class_name": "snowberg",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "38",
+    "class_name": "sparse_residential",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "39",
+    "class_name": "stadium",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "40",
+    "class_name": "storage_tank",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "41",
+    "class_name": "tennis_court",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "42",
+    "class_name": "terrace",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "43",
+    "class_name": "thermal_power_station",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "NWPU45_20",
+    "label": "44",
+    "class_name": "wetland",
+    "train_images": 140,
+    "test_images": 560,
+    "total_images": 700
+  },
+  {
+    "split": "UCM_20",
+    "label": "0",
+    "class_name": "agricultural",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "1",
+    "class_name": "airplane",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "2",
+    "class_name": "baseballdiamond",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "3",
+    "class_name": "beach",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "4",
+    "class_name": "buildings",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "5",
+    "class_name": "chaparral",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "6",
+    "class_name": "denseresidential",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "7",
+    "class_name": "forest",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "8",
+    "class_name": "freeway",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "9",
+    "class_name": "golfcourse",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "10",
+    "class_name": "harbor",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "11",
+    "class_name": "intersection",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "12",
+    "class_name": "mediumresidential",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "13",
+    "class_name": "mobilehomepark",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "14",
+    "class_name": "overpass",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "15",
+    "class_name": "parkinglot",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "16",
+    "class_name": "river",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "17",
+    "class_name": "runway",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "18",
+    "class_name": "sparseresidential",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "19",
+    "class_name": "storagetanks",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_20",
+    "label": "20",
+    "class_name": "tenniscourt",
+    "train_images": 20,
+    "test_images": 80,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "0",
+    "class_name": "agricultural",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "1",
+    "class_name": "airplane",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "2",
+    "class_name": "baseballdiamond",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "3",
+    "class_name": "beach",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "4",
+    "class_name": "buildings",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "5",
+    "class_name": "chaparral",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "6",
+    "class_name": "denseresidential",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "7",
+    "class_name": "forest",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "8",
+    "class_name": "freeway",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "9",
+    "class_name": "golfcourse",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "10",
+    "class_name": "harbor",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "11",
+    "class_name": "intersection",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "12",
+    "class_name": "mediumresidential",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "13",
+    "class_name": "mobilehomepark",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "14",
+    "class_name": "overpass",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "15",
+    "class_name": "parkinglot",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "16",
+    "class_name": "river",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "17",
+    "class_name": "runway",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "18",
+    "class_name": "sparseresidential",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "19",
+    "class_name": "storagetanks",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_50",
+    "label": "20",
+    "class_name": "tenniscourt",
+    "train_images": 50,
+    "test_images": 50,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "0",
+    "class_name": "agricultural",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "1",
+    "class_name": "airplane",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "2",
+    "class_name": "baseballdiamond",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "3",
+    "class_name": "beach",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "4",
+    "class_name": "buildings",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "5",
+    "class_name": "chaparral",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "6",
+    "class_name": "denseresidential",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "7",
+    "class_name": "forest",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "8",
+    "class_name": "freeway",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "9",
+    "class_name": "golfcourse",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "10",
+    "class_name": "harbor",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "11",
+    "class_name": "intersection",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "12",
+    "class_name": "mediumresidential",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "13",
+    "class_name": "mobilehomepark",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "14",
+    "class_name": "overpass",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "15",
+    "class_name": "parkinglot",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "16",
+    "class_name": "river",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "17",
+    "class_name": "runway",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "18",
+    "class_name": "sparseresidential",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "19",
+    "class_name": "storagetanks",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  },
+  {
+    "split": "UCM_80",
+    "label": "20",
+    "class_name": "tenniscourt",
+    "train_images": 80,
+    "test_images": 20,
+    "total_images": 100
+  }
+]
